@@ -1,0 +1,5 @@
+package com.educacionit.com.controllers;
+
+public interface GenetricRestcontroller {
+
+}
