@@ -19,10 +19,18 @@
 	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
 		<item key="width" value="480"/>
 		<item key="height" value="531"/>
-		<item key="x" value="443"/>
-		<item key="y" value="0"/>
+		<item key="x" value="467"/>
+		<item key="y" value="66"/>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
@@ -51,13 +59,12 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="org.blog"/>
+			<item value="org."/>
 		</list>
 		<list key="groupId">
-			<item value="com.educacionit.com"/>
+			<item value="com.educaciontit.com"/>
 		</list>
 		<list key="artifactId">
-			<item value="blog"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -73,13 +80,12 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
-			<item value="com.educacionit.com"/>
+			<item value="com.educaciontit.com"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="blog"/>
-			<item value="parent"/>
+			<item value="blog-2"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
